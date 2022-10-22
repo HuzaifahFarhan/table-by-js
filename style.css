@@ -1,0 +1,13 @@
+.bdr{
+    background-image: linear-gradient(#cc2b5e , #753a88);
+}
+.search{
+    width: 215px;
+    height: 70px;
+    background-color: lightgray;
+}
+.align{
+padding-right: 40px;
+margin-top: 15px;
+margin-bottom: 5px;
+}
